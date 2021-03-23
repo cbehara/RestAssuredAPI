@@ -1,0 +1,9 @@
+{
+    "category": "TRAFFIC",
+    "filters": [
+        {
+            "type": "OBJECT_TYPE",
+            "value": "IntersectionStatus"
+        }
+    ]
+}
