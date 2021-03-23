@@ -154,11 +154,4 @@ Feature: GET: Automated Demo Tests
       | Demo test | /api/users?page=2 | application/json |             | GET           |        200 |
 ```
 
-## Support
 
-Reach out to me at one of the following places!
-
-- FaceBook at <a href="https://www.facebook.com/chinna.mir.3" target="_blank">`arjun`</a>
-- Twitter at <a href="https://twitter.com/arjun436" target="_blank">`@arjun436`</a>
-
----
